@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//秘密房间
 public class SecretSoundRegion : MonoBehaviour
 {
     bool isTrigger;
