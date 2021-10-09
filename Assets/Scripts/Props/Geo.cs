@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// 吉欧（流通的货币，金币）
+/// </summary>
 public class Geo : MonoBehaviour {
 	[SerializeField] AudioClip[] geoHitGrounds;
 	AudioSource audioSource;
